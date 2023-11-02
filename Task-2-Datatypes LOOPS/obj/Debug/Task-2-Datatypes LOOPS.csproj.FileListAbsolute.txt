@@ -1,0 +1,7 @@
+C:\Users\Hp\OneDrive\Desktop\Task-2-Datatypes LOOPS\Task-2-Datatypes LOOPS\bin\Debug\Task-2-Datatypes LOOPS.exe.config
+C:\Users\Hp\OneDrive\Desktop\Task-2-Datatypes LOOPS\Task-2-Datatypes LOOPS\bin\Debug\Task-2-Datatypes LOOPS.exe
+C:\Users\Hp\OneDrive\Desktop\Task-2-Datatypes LOOPS\Task-2-Datatypes LOOPS\bin\Debug\Task-2-Datatypes LOOPS.pdb
+C:\Users\Hp\OneDrive\Desktop\Task-2-Datatypes LOOPS\Task-2-Datatypes LOOPS\obj\Debug\Task-2-Datatypes LOOPS.csproj.AssemblyReference.cache
+C:\Users\Hp\OneDrive\Desktop\Task-2-Datatypes LOOPS\Task-2-Datatypes LOOPS\obj\Debug\Task-2-Datatypes LOOPS.csproj.CoreCompileInputs.cache
+C:\Users\Hp\OneDrive\Desktop\Task-2-Datatypes LOOPS\Task-2-Datatypes LOOPS\obj\Debug\Task-2-Datatypes LOOPS.exe
+C:\Users\Hp\OneDrive\Desktop\Task-2-Datatypes LOOPS\Task-2-Datatypes LOOPS\obj\Debug\Task-2-Datatypes LOOPS.pdb
